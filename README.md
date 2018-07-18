@@ -1,3 +1,10 @@
+### Image
+
+![Alt Text](https://github.com/hasanmohdkhan/Android-Day-to-Day-Code/blob/master/Permssion.png)
+
+
+### Code
+
 ```
 
        //checking for permission if not granted then show a toast
@@ -48,5 +55,5 @@ private void permissionCheck()
         }
     }
 	
-	```
+```
 	
